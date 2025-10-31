@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+env/
+venv/
+.env/
+.venv/
+env.bak/
+.pyenv/
+
+
+# Distribution / build files
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDE-specific files
+.idea/  # PyCharm
+.vscode/ # VS Code
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite3 # Django default database
+db.sqlite3
+
+# Local settings files (e.g., Django local_settings.py)
+local_settings.py
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# IPython files
+profile_default/
+ipython_config.py
+
+# PyInstaller
+*.log
+
+# mkdocs documentation
+/site
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ignore all Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+
+# Ignore temporary Excel files (often start with ~$)
+~$*
+
+# others
+node_modules
